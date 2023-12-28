@@ -1,0 +1,57 @@
+D:\C#\WindownForm\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\net7.0-windows\AttendanceManagementSystem.exe
+D:\C#\WindownForm\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\net7.0-windows\AttendanceManagementSystem.deps.json
+D:\C#\WindownForm\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\net7.0-windows\AttendanceManagementSystem.runtimeconfig.json
+D:\C#\WindownForm\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\net7.0-windows\AttendanceManagementSystem.dll
+D:\C#\WindownForm\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\net7.0-windows\AttendanceManagementSystem.pdb
+D:\C#\WindownForm\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.csproj.AssemblyReference.cache
+D:\C#\WindownForm\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.MainForm.resources
+D:\C#\WindownForm\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.EmployeeForm.resources
+D:\C#\WindownForm\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.ClockManagement.resources
+D:\C#\WindownForm\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.csproj.GenerateResource.cache
+D:\C#\WindownForm\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\WindownForm\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.AssemblyInfoInputs.cache
+D:\C#\WindownForm\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.AssemblyInfo.cs
+D:\C#\WindownForm\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.csproj.CoreCompileInputs.cache
+D:\C#\WindownForm\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.dll
+D:\C#\WindownForm\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\refint\AttendanceManagementSystem.dll
+D:\C#\WindownForm\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.pdb
+D:\C#\WindownForm\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.genruntimeconfig.cache
+D:\C#\WindownForm\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\ref\AttendanceManagementSystem.dll
+D:\NU\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\net7.0-windows\AttendanceManagementSystem.exe
+D:\NU\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\net7.0-windows\AttendanceManagementSystem.deps.json
+D:\NU\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\net7.0-windows\AttendanceManagementSystem.runtimeconfig.json
+D:\NU\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\net7.0-windows\AttendanceManagementSystem.dll
+D:\NU\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\net7.0-windows\AttendanceManagementSystem.pdb
+D:\NU\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.csproj.AssemblyReference.cache
+D:\NU\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.MainForm.resources
+D:\NU\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.EmployeeForm.resources
+D:\NU\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.ClockManagement.resources
+D:\NU\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.csproj.GenerateResource.cache
+D:\NU\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\NU\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.AssemblyInfoInputs.cache
+D:\NU\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.AssemblyInfo.cs
+D:\NU\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.csproj.CoreCompileInputs.cache
+D:\NU\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.dll
+D:\NU\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\refint\AttendanceManagementSystem.dll
+D:\NU\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.pdb
+D:\NU\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.genruntimeconfig.cache
+D:\NU\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\ref\AttendanceManagementSystem.dll
+E:\NU\Year ll\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\net7.0-windows\AttendanceManagementSystem.exe
+E:\NU\Year ll\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\net7.0-windows\AttendanceManagementSystem.deps.json
+E:\NU\Year ll\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\net7.0-windows\AttendanceManagementSystem.runtimeconfig.json
+E:\NU\Year ll\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\net7.0-windows\AttendanceManagementSystem.dll
+E:\NU\Year ll\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\bin\Debug\net7.0-windows\AttendanceManagementSystem.pdb
+E:\NU\Year ll\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.csproj.AssemblyReference.cache
+E:\NU\Year ll\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.MainForm.resources
+E:\NU\Year ll\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.EmployeeForm.resources
+E:\NU\Year ll\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.ClockManagement.resources
+E:\NU\Year ll\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.csproj.GenerateResource.cache
+E:\NU\Year ll\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\NU\Year ll\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.AssemblyInfoInputs.cache
+E:\NU\Year ll\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.AssemblyInfo.cs
+E:\NU\Year ll\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.csproj.CoreCompileInputs.cache
+E:\NU\Year ll\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.dll
+E:\NU\Year ll\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\refint\AttendanceManagementSystem.dll
+E:\NU\Year ll\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.pdb
+E:\NU\Year ll\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\AttendanceManagementSystem.genruntimeconfig.cache
+E:\NU\Year ll\Semester ll\Advance C#\C# ll\AttendanceManagementSystem\AttendanceManagementSystem\AttendanceManagementSystem\obj\Debug\net7.0-windows\ref\AttendanceManagementSystem.dll
